@@ -1,3 +1,2 @@
-# hunspell-ms
-## Affix File For BM Dictionary
-### Built From Scratch for MySpell. Released under GPL.
+# Affix File For BM Dictionary (Codename: hunspell-ms)
+## Built From Scratch for MySpell. Released under GPL.
