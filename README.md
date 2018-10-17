@@ -1,3 +1,3 @@
 # hunspell-ms
-
-Affix file for BM Dictionary.
+## Affix File For BM Dictionary
+### Built From Scratch for MySpell. Released under GPL.
