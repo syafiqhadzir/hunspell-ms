@@ -11,6 +11,13 @@ This dictionary was originally built from scratch for MySpell. Released under GP
 
 This open source project was then abandonned since 12 August 2006.
 
+### Original Author
+
+Author: Fakhrullah Padzil
+Website: https://fajarhac.com
+
+Disclaimer: I copy file from http://extensions.openoffice.org/en/project/kamus-bahasa-malaysia-malay-dictionary. Then I convert to utf-8 so that can be used in Sublime Text.
+
 ### Credits
 
 * Shahril Saad
@@ -22,5 +29,7 @@ License
 ----
 
 GPL v3.
+
+This dictionary is covered by the 'GNU Free Documentation License', viewable at http://www.gnu.org/copyleft/fdl.html 
 
 **Free Software, Oh Yeah!**
