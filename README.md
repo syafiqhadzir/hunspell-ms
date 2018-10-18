@@ -31,6 +31,10 @@ Disclaimer: I copy file from http://extensions.openoffice.org/en/project/kamus-b
 * Prof. Emeritus Dr. Abdullah Hassan
 * Puan Ainon Mohd
 
+### Reference
+
+* Kamus Dewan Bahasa Edisi Keempat.
+
 License
 ----
 
