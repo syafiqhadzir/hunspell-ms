@@ -1,10 +1,10 @@
-# Codename: "hunspell-ms"
+# Codename: "Hunspell-MS"
 
 ![alt Dedication](https://academic.syafiqhadzir.com/assets/github/dedication.png "Dedicated For LibreOffice")
 
 ## Affix File For BM Dictionary
 
-[![Codename](https://img.shields.io/badge/Codename-hunspell--ms-black.svg?longCache=true)](https://academic.syafiqhadzir.com/en-MY/research/) [![Version](https://img.shields.io/badge/Version-0.1alpha-yellowgreen.svg?longCache=true)](https://travis-ci.org/joemccann/dillinger) [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg?longCache=true)](https://www.gnu.org/licenses/gpl-3.0)
+[![Codename](https://img.shields.io/badge/Codename-Hunspell--MS-black.svg?longCache=true)](https://academic.syafiqhadzir.com/en-MY/research/) [![Version](https://img.shields.io/badge/Version-0.1alpha-yellowgreen.svg?longCache=true)](https://travis-ci.org/joemccann/dillinger) [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg?longCache=true)](https://www.gnu.org/licenses/gpl-3.0)
 
 This dictionary was originally built from scratch for MySpell. Released under GPL. With the cooperation of:-
 
