@@ -4,7 +4,7 @@
 
 ## Affix File For BM Dictionary
 
-[![Codename](https://img.shields.io/badge/Codename-Hunspell--MS-black.svg?longCache=true)](https://academic.syafiqhadzir.com/en-MY/research/) [![Version](https://img.shields.io/badge/Version-1.0alpha-yellowgreen.svg?longCache=true)](https://travis-ci.org/joemccann/dillinger) [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg?longCache=true)](https://www.gnu.org/licenses/gpl-3.0)![Build Unknown](https://img.shields.io/badge/Build-Unknown-lightgrey.svg)]
+[![Codename](https://img.shields.io/badge/Codename-Hunspell--MS-black.svg?longCache=true)](https://academic.syafiqhadzir.com/en-MY/research/) [![Version](https://img.shields.io/badge/Version-1.0alpha-yellowgreen.svg?longCache=true)](https://travis-ci.org/joemccann/dillinger) [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg?longCache=true)](https://www.gnu.org/licenses/gpl-3.0) ![Build Unknown](https://img.shields.io/badge/Build-Unknown-lightgrey.svg)
 
 This dictionary was originally built from scratch for MySpell. Released under GPL. With the cooperation of:-
 
