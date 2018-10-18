@@ -1,6 +1,6 @@
 # Codename: "hunspell-ms"
 
-![alt Dedication](https://academic.syafiqhadzir.com/assets/github/github.png "Dedicated For LibreOffice")
+![alt Dedication](https://academic.syafiqhadzir.com/assets/github/dedication.png "Dedicated For LibreOffice")
 
 ## Affix File For BM Dictionary
 
