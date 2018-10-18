@@ -13,7 +13,7 @@ This open source project was then abandonned since 12 August 2006.
 
 ### Original Author
 
-Author: Fakhrullah Padzil
+Author: Fakhrullah Padzil.
 Website: https://fajarhac.com
 
 Disclaimer: I copy file from http://extensions.openoffice.org/en/project/kamus-bahasa-malaysia-malay-dictionary. Then I convert to utf-8 so that can be used in Sublime Text.
