@@ -23,7 +23,9 @@ Disclaimer: I copy file from http://extensions.openoffice.org/en/project/kamus-b
 * Shahril Saad
 * Ismas Suraya
 * Rudhuwan Abu Bakar
-* Syed Ahmad Shazali
+* Syed Ahmad Shazali 
+* Prof. Emeritus Dr. Abdullah Hassan
+* Puan Ainon Mohd
 
 License
 ----
