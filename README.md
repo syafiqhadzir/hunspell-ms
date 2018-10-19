@@ -24,6 +24,10 @@ Website: https://fajarhac.com
 
 Disclaimer: I copy file from http://extensions.openoffice.org/en/project/kamus-bahasa-malaysia-malay-dictionary. Then I convert to utf-8 so that can be used in Sublime Text.
 
+### Changelog
+
+* Converting from UTF-8 to ISO-8859-1
+
 ### Credits
 
 * Shahril Saad
