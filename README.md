@@ -9,7 +9,7 @@
 This dictionary was originally built from scratch for MySpell. Released under GPL. With the cooperation of:-
 
   - MIMOS (Open Source Group) [ opensource.mimos.my / osslocalize@mimos.my ]
-  - Prof. Emeritus Dr. Abdullah Hassan (Universiti Peguruan Sultan Idris) [ abdullah@fbk.upsi.edu.my ]
+  - Prof. Emeritus Dr. Abdullah Hassan (Universiti Pendidikan Sultan Idris) [ abdullah@fbk.upsi.edu.my ]
   - Puan Ainon Binti Mohd - PTS Publications Sdn. Bhd
 
 This open source project was then abandonned since 12 August 2006.
