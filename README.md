@@ -14,7 +14,7 @@ This dictionary was originally built from scratch for MySpell. Released under GP
 
 This open source project was then abandonned since 12 August 2006.
 
-Currently containing 24550 words.
+Currently containing 31128 words compared to the old wordlist, 24550 words.
 
 ### Original Author
 
