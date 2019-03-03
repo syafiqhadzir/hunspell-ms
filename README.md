@@ -19,6 +19,8 @@ Currently containing 309718 words compared to the old wordlist, 24550 words.
 ### CHANGELOG (Highlights)
 
 * Converting from UTF-8 to ISO-8859-1
+* Updating the dictionary affix file (3 March 2019)
+* Wordlist: 70 additions and 115 deletions (3 March 2019)
 
 ### Reference
 
