@@ -8,7 +8,7 @@
 
 This is the bleeding edge branch of Hunspell-MS repository.
 
-Currently containing 309718 words compared to the old wordlist, 24550 words.
+Currently containing 30971 words compared to the old wordlist, 24550 words.
 
 ### CHANGELOG (Highlights)
 
