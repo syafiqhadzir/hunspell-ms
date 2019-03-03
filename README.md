@@ -16,10 +16,13 @@ Currently containing 30971 words compared to the old wordlist, 24550 words.
 * Wordlist: 55 additions and 166 deletions (26 February 2019)
 * Updating the dictionary affix file (3 March 2019)
 * Wordlist: 70 additions and 115 deletions (3 March 2019)
+* Reference added (3 March 2019)
 
 ### Reference
 
 * Kamus Dewan Bahasa Edisi Keempat.
+* Tatabahasa Dewan Edisi Ketiga.
+* Gaya Dewan Edisi Ketiga.
 
 License
 ----
