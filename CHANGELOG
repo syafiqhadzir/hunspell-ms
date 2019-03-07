@@ -18,3 +18,4 @@ CHANGELOG (Highlights)
 ------------
 * Wordlist: 28 additions and 26 deletions
 * Updating by replacing ms_MY.dic file with ms_MY_experimental.dic
+* Deleting Makefile
