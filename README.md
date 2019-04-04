@@ -1,6 +1,6 @@
 # Codename: "Hunspell-MS" [Experimental]
 
-![alt Dedication](https://academic.syafiqhadzir.com/assets/github/dedication.png "Dedicated For LibreOffice")
+![alt Dedication](https://www.crelotech.com/assets/github/libreoffice.png "Dedicated For LibreOffice")
 
 ## Affix File For Bahasa Melayu (Malaysia) Dictionary
 
