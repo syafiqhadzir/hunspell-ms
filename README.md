@@ -1,6 +1,6 @@
 # Codename: "Hunspell-MS" [Experimental]
 
-<img src="https://www.crelotech.com/assets/github/libreoffice.png" alt="Dedicated For LibreOffice" title="Dedicated For LibreOffice" />
+<img src="https://i2.wp.com/the-digital-reader.com/wp-content/uploads/2018/02/lo60icon.png?ssl=1" alt="Dedicated For LibreOffice" title="Dedicated For LibreOffice" />
 
 ## Affix File For Bahasa Melayu (Malaysia) Dictionary
 
