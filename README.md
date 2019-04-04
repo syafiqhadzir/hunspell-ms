@@ -12,11 +12,11 @@ Currently containing 30971 words compared to the old wordlist, 24550 words.
 
 ### CHANGELOG (Highlights)
 
+* Wordlist: 153 additions and 85 deletions (4 April 2019)
 * Wordlist: 70 additions and 115 deletions (3 March 2019)
 * Reference added (3 March 2019)
 * Wordlist: 28 additions and 26 deletions (7 March 2019)
 * Updating by replacing ms_MY.dic file with ms_MY_experimental.dic (7 March 2019)
-* Deleting Makefile (7 March 2019)
 
 ### Reference
 
