@@ -12,6 +12,7 @@ Currently containing 30921 words compared to the old wordlist, 24550 words.
 
 ### CHANGELOG (Highlights)
 
+* Wordlist: 163 additions and 283 deletions (8 April 2019)
 * Wordlist: 343 additions and 398 deletions (4 April 2019)
 * Wordlist: 28 additions and 26 deletions (7 March 2019)
 * Updating by replacing ms_MY.dic file with ms_MY_experimental.dic (7 March 2019)
