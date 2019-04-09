@@ -12,7 +12,7 @@ Currently containing 30800 words compared to the old wordlist, 24550 words.
 
 ### CHANGELOG (Highlights)
 
-* Moving to v2.4e (9 April 2019)
+* Version: Moving to v2.4e (9 April 2019)
 * Wordlist: 14 additions and 15 deletions (9 April 2019)
 * Wordlist: 163 additions and 283 deletions (8 April 2019)
 * Wordlist: 343 additions and 398 deletions (4 April 2019)
