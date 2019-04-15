@@ -4,15 +4,15 @@
 
 ## Affix File For Bahasa Melayu (Malaysia) Dictionary
 
-[![Codename](https://img.shields.io/badge/Codename-Hunspell--MS-black.svg?longCache=true)](https://academic.syafiqhadzir.com/en-MY/research/) [![Version](https://img.shields.io/badge/Version-2.4e-yellowgreen.svg?longCache=true)](https://github.com/SyafiqHadzir/hunspell-ms/tree/master/Release) [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg?longCache=true)](https://www.gnu.org/licenses/gpl-3.0) [![Status Experimental](https://img.shields.io/badge/Status-Experimental-black.svg?longCache=true)](https://github.com/SyafiqHadzir/hunspell-ms/releases) ![Unicode ISO-8859-1](https://img.shields.io/badge/Unicode-ISO--8859--1-green.svg?longCache=true) ![Unicode ISO-8859-1](https://img.shields.io/badge/Wordlist-30811%20words-green.svg?longCache=true)
+[![Codename](https://img.shields.io/badge/Codename-Hunspell--MS-black.svg?longCache=true)](https://academic.syafiqhadzir.com/en-MY/research/) [![Version](https://img.shields.io/badge/Version-2.4e-yellowgreen.svg?longCache=true)](https://github.com/SyafiqHadzir/hunspell-ms/tree/master/Release) [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg?longCache=true)](https://www.gnu.org/licenses/gpl-3.0) [![Status Experimental](https://img.shields.io/badge/Status-Experimental-black.svg?longCache=true)](https://github.com/SyafiqHadzir/hunspell-ms/releases) ![Unicode ISO-8859-1](https://img.shields.io/badge/Unicode-ISO--8859--1-green.svg?longCache=true) ![Unicode ISO-8859-1](https://img.shields.io/badge/Wordlist-30815%20words-green.svg?longCache=true)
 
 This is the bleeding edge branch of Hunspell-MS repository.
 
-Currently containing 30811 words compared to the old wordlist, 24550 words.
+Currently containing 30815 words compared to the old wordlist, 24550 words.
 
 ### CHANGELOG (Highlights)
 
-* Wordlist: 88 additions and 68 deletions (15 April 2019)
+* Wordlist: 173 additions and 149 deletions (15 April 2019)
 * Wordlist: 15 additions and 19 deletions (12 April 2019)
 * Wordlist:  69 additions and 69 deletions (11 April 2019)
 * Wordlist: 21 additions and 19 deletions (10 April 2019)
