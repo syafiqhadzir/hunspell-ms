@@ -1,33 +1,21 @@
 CHANGELOG (Highlights)
 ========================
 
-19 October 2018
+October 2018
 ---------------
 * Converting from UTF-8 to ISO-8859-1
 
-26 February 2019
+February 2019
 ----------------
 * Wordlist: 55 additions and 166 deletions
 
-3 March 2019
+March 2019
 ------------
 * Updating the dictionary affix file
-* Wordlist: 70 additions and 115 deletions
-
-7 March 2019
-------------
-* Wordlist: 28 additions and 26 deletions
+* Wordlist: 98 additions and 141 deletions
 * Updating by replacing ms_MY.dic file with ms_MY_experimental.dic
 * Deleting Makefile
 
-4 April 2019
+April 2019
 ------------
-* Wordlist: 343 additions and 398 deletions
-
-8 April 2019
-------------
-* Wordlist: 163 additions and 283 deletions
-
-9 April 2019
-------------
-* Wordlist: 14 additions and 15 deletions
+* Wordlist: 831 additions and 989 deletions
