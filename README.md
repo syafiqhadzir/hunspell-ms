@@ -12,11 +12,11 @@ Currently containing 30815 words compared to the old wordlist, 24550 words.
 
 ### CHANGELOG (Highlights)
 
+* Wordlist: 24 additions and 37 deletions (16 April 2019)
 * Wordlist: 173 additions and 149 deletions (15 April 2019)
 * Wordlist: 15 additions and 19 deletions (12 April 2019)
 * Wordlist:  69 additions and 69 deletions (11 April 2019)
 * Wordlist: 21 additions and 19 deletions (10 April 2019)
-* Version: Moving to v2.4e (9 April 2019)
 
 ### Reference
 
