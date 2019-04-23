@@ -1,17 +1,32 @@
 [
   {
+    "word": "taknak",
+    "type": "baku",
+    "value": 0
+  },
+  {
     "word": "xnak",
     "type": "noisy",
+    "value": "taknak"
+  },
+  {
+    "word": "hamba",
+    "type": "baku",
     "value": 0
   },
   {
     "word": "ambe",
     "type": "dialect",
+    "value": "hamba"
+  },
+  {
+    "word": "sekarang",
+    "type": "baku",
     "value": 0
   },
   {
     "word": "skunk",
     "type": "trend",
-    "value": 0
+    "value": "sekarang"
   }
 ]
