@@ -18,6 +18,9 @@
   },
   "AA": {
     "definition": "Asia-Afrika.",
-    "types":  "kep"
+    "types": "kep"
+  },
+  "Test": {
+    "definition": "Testing."
   }
 }
