@@ -20,7 +20,29 @@
     "definition": "Asia-Afrika.",
     "types": "kep"
   },
-  "Test": {
-    "definition": "Testing."
+  "AB": {
+    "definition": "Anggaran belanja.",
+    "types": "kep"
+  },
+  "aba": {
+    "definitions": [
+      {
+        "aba-aba": {
+          "definition": "Kata(-kata) perintah dlm latihan tentera (senaman) dll.",
+          "types": "Id",
+          "example": "“Satu ...,” ~ Wit dr kerusinya"
+        }
+      },
+      {
+        "definition": "2. Utk melahirkan kegirangan atau menyatakan persetujuan.",
+        "example": "Itu dia, ~, macam itulah caranya!",
+        "types": "sr"
+      },
+      {
+        "definition": "3. Utk menunjukkan terlupa akan sesuatu.",
+        "example": "Nama bukunya ... ~, nanti saya cuba ingatkan!",
+        "types": "sr"
+      }
+    ]
   }
 }
