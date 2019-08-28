@@ -1,4 +1,4 @@
-new word
+new Wordlist
 {
     Id = 1,
     Word = "a",
@@ -7,7 +7,7 @@ new word
     Desc3 = "sr Utk menunjukkan terlupa akan sesuatu."
 },
 
-new word
+new Wordlist
 {
     Id = 2,
     Word = "AA",
@@ -16,7 +16,7 @@ new word
     Desc3 = null
 },
 
-new word
+new Wordlist
 {
     Id = 3,
     Word = "AB",
@@ -25,7 +25,7 @@ new word
     Desc3 = null
 },
 
-new word
+new Wordlist
 {
     Id = 4,
     Word = "aba",
@@ -34,7 +34,7 @@ new word
     Desc3 = null
 },
 
-new word
+new Wordlist
 {
     Id = 5,
     Word = "abad",
@@ -43,7 +43,7 @@ new word
     Desc3 = null
 },
 
-new word
+new Wordlist
 {
     Id = 6,
     Word = "abadi",
@@ -52,7 +52,7 @@ new word
     Desc3 = null
 },
 
-new word
+new Wordlist
 {
     Id = 7,
     Word = "mengabadikan",
@@ -61,7 +61,7 @@ new word
     Desc3 = null,
 },
 
-new word
+new Wordlist
 {
     Id = 8,
     Word = "terabadi",
@@ -70,7 +70,7 @@ new word
     Desc3 = null
 },
 
-new word
+new Wordlist
 {
     Id = 9,
     Word = "keabadian",
@@ -79,25 +79,25 @@ new word
     Desc3 = null
 },
 
-new word
+new Wordlist
 {
     Id = 10,
     Word = "pengabadian",
     Desc = "perihal mengabadikan, pengekalan.",
     Desc2 = null,
     Desc3 = null
-}
+},
 
-new word
+new Wordlist
 {
     Id = 11,
     Word = "abadiah",
     Desc = "Ar Abadi",
     Desc2 = null,
     Desc3 = null
-}
+},
 
-new word
+new Wordlist
 {
     Id = 12,
     Word = "abadiat",
