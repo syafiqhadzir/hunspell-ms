@@ -16,11 +16,11 @@ Currently containing 30840 words compared to the old wordlist, 24550 words.
 
 ### CHANGELOG (Highlights)
 
+* API: 12 additions for Wordlists and 54 additions for Manuscripts (4  September 2019)
 * Wordlist: 12 additions and 0 deletions (22 April 2019)
 * Wordlist: 20 additions and 0 deletions (17 April 2019)
 * Wordlist: 33 additions and 37 deletions (16 April 2019)
 * Wordlist: 173 additions and 149 deletions (15 April 2019)
-* Wordlist: 15 additions and 19 deletions (12 April 2019)
 
 ### Reference
 
