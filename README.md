@@ -1,6 +1,6 @@
 # Codename: "Hunspell-MS" [Experimental]
 
-<p align="center"><img src="https://i2.wp.com/the-digital-reader.com/wp-content/uploads/2018/02/lo60icon.png?ssl=1" alt="Dedicated For LibreOffice" title="Dedicated For LibreOffice" height="150" /></p>
+<p align="center"><img src="https://buletin01.com/wp-content/uploads/2019/04/dbp-1.jpg" alt="Inspired by Dewan Bahasa dan Pustaka Malaysia" title="Inspired by Dewan Bahasa dan Pustaka Malaysia" height="200" /></p>
 
 ### Official Documentation
 
