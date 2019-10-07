@@ -10,12 +10,22 @@ February 2019
 * Wordlist: 55 additions and 166 deletions
 
 March 2019
-------------
+----------------
 * Updating the dictionary affix file
 * Wordlist: 98 additions and 141 deletions
 * Updating by replacing ms_MY.dic file with ms_MY_experimental.dic
 * Deleting Makefile
 
 April 2019
-------------
+----------------
 * Wordlist: 851 additions and 989 deletions
+
+September 2019
+----------------
+* API: 12 additions for Wordlists and 54 additions for Manuscripts (4  September 2019)
+
+October 2019
+----------------
+* API: 78 additions for Wordlists (2 October 2019)
+* API: 72 additions for Wordlists (3 October 2019)
+* API: 300 additions for Wordlists (4 October 2019)
