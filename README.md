@@ -11,13 +11,29 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Codename: "Hunspell-MS" [Experimental]
 
-<p align="center"><img src="https://buletin01.com/wp-content/uploads/2019/04/dbp-1.jpg" alt="Inspired by Dewan Bahasa dan Pustaka Malaysia" title="Inspired by Dewan Bahasa dan Pustaka Malaysia" height="200" /></p>
 
-### Official Documentation
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/Hunspell-MS/Hunspell-MS">
+    <img src="https://buletin01.com/wp-content/uploads/2019/04/dbp-1.jpg"
+         alt="Inspired by Dewan Bahasa dan Pustaka Malaysia"
+         title="Inspired by Dewan Bahasa dan Pustaka Malaysia"
+         height="200" />
+  </a>
 
-The official documentation for end users and developers: [https://hunspell-ms.syafiqhadzir.dev](https://hunspell-ms.syafiqhadzir.dev)
+  <h3 align="center">Codename: "Hunspell-MS" [Experimental]</h3>
+
+  <p align="center">
+    The official documentation for end users and developers
+    <br />
+    <a href="https://hunspell-ms.syafiqhadzir.dev/"><strong>View Complete Wiki »</strong></a>
+    <br />
+  </p>
+</p>
+
+
 
 ## Affix File For Bahasa Melayu (Malaysia) Dictionary
 
@@ -27,7 +43,10 @@ This is the bleeding edge branch of Hunspell-MS repository.
 
 Currently containing 30840 words compared to the old wordlist, 24550 words.
 
-### CHANGELOG (Highlights)
+
+
+<!-- CHANGELOG (Highlights) -->
+## CHANGELOG (Highlights)
 
 * API: 300 additions for Wordlists (4 October 2019)
 * API: 72 additions for Wordlists (3 October 2019)
@@ -35,20 +54,32 @@ Currently containing 30840 words compared to the old wordlist, 24550 words.
 * API: 12 additions for Wordlists and 54 additions for Manuscripts (4  September 2019)
 * Wordlist: 12 additions and 0 deletions (22 April 2019)
 
-### Reference
+
+
+<!-- References -->
+## References
 
 * Kamus Dewan Bahasa Edisi Keempat.
 * Tatabahasa Dewan Edisi Ketiga.
 * Gaya Dewan Edisi Ketiga.
 
-License
-----
 
-GPL v3.
 
-This dictionary is covered by the 'GNU Free Documentation License', viewable at http://www.gnu.org/copyleft/fdl.html 
+<!-- LICENSE -->
+## License
 
-**Free Software, Oh Yeah!**
+Distributed and covered under the GNU Free Documentation License. See `http://www.gnu.org/copyleft/fdl.html` for more information.
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Syafiq Hadzir - [@syafiqhadzir_](https://twitter.com/syafiqhadzir_) - inquiry@syafiqhadzir.dev
+
+Project Link: [https://github.com/Hunspell-MS/Hunspell-MS](https://github.com/Hunspell-MS/Hunspell-MS)
+
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
