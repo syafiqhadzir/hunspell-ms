@@ -68,7 +68,7 @@ Currently containing 30840 words compared to the old wordlist, 24550 words.
 <!-- LICENSE -->
 ## License
 
-Distributed and covered under the GNU Free Documentation License. See `http://www.gnu.org/copyleft/fdl.html` for more information.
+Distributed and covered under the GNU Free Documentation License. See [http://www.gnu.org/copyleft/fdl.html][license-url] for more information.
 
 
 
@@ -91,3 +91,4 @@ Project Link: [https://github.com/Hunspell-MS/Hunspell-MS](https://github.com/Hu
 [stars-url]: https://github.com/Hunspell-MS/Hunspell-MS/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Hunspell-MS/Hunspell-MS.svg?style=flat-square
 [issues-url]: https://github.com/Hunspell-MS/Hunspell-MS/issues
+[license-url]: http://www.gnu.org/copyleft/fdl.html
