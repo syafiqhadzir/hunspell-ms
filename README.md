@@ -62,4 +62,4 @@ This dictionary is covered by the 'GNU Free Documentation License', viewable at 
 [issues-shield]: https://img.shields.io/github/issues/Hunspell-MS/Hunspell-MS.svg?style=flat-square
 [issues-url]: https://github.com/Hunspell-MS/Hunspell-MS/issues
 [license-shield]: https://img.shields.io/github/license/Hunspell-MS/Hunspell-MS.svg?style=flat-square
-[license-url]: https://github.com/Hunspell-MS/Hunspell-MS/blob/master/LICENSE.txt
+[license-url]: https://github.com/Hunspell-MS/Hunspell-MS/blob/master/LICENSE
