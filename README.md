@@ -10,7 +10,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![GPL License][license-shield]][license-url]
 
 # Codename: "Hunspell-MS" [Experimental]
 
@@ -61,5 +60,3 @@ This dictionary is covered by the 'GNU Free Documentation License', viewable at 
 [stars-url]: https://github.com/Hunspell-MS/Hunspell-MS/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Hunspell-MS/Hunspell-MS.svg?style=flat-square
 [issues-url]: https://github.com/Hunspell-MS/Hunspell-MS/issues
-[license-shield]: https://img.shields.io/github/license/Hunspell-MS/Hunspell-MS.svg?style=flat-square
-[license-url]: https://github.com/Hunspell-MS/Hunspell-MS/blob/master/LICENSE
