@@ -1,3 +1,17 @@
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![GPL License][license-shield]][license-url]
+
 # Codename: "Hunspell-MS" [Experimental]
 
 <p align="center"><img src="https://buletin01.com/wp-content/uploads/2019/04/dbp-1.jpg" alt="Inspired by Dewan Bahasa dan Pustaka Malaysia" title="Inspired by Dewan Bahasa dan Pustaka Malaysia" height="200" /></p>
@@ -36,3 +50,16 @@ GPL v3.
 This dictionary is covered by the 'GNU Free Documentation License', viewable at http://www.gnu.org/copyleft/fdl.html 
 
 **Free Software, Oh Yeah!**
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/Hunspell-MS/Hunspell-MS.svg?style=flat-square
+[contributors-url]: https://github.com/Hunspell-MS/Hunspell-MS/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Hunspell-MS/Hunspell-MS.svg?style=flat-square
+[forks-url]: https://github.com/Hunspell-MS/Hunspell-MS/network/members
+[stars-shield]: https://img.shields.io/github/stars/Hunspell-MS/Hunspell-MS.svg?style=flat-square
+[stars-url]: https://github.com/Hunspell-MS/Hunspell-MS/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Hunspell-MS/Hunspell-MS.svg?style=flat-square
+[issues-url]: https://github.com/Hunspell-MS/Hunspell-MS/issues
+[license-shield]: https://img.shields.io/github/license/Hunspell-MS/Hunspell-MS.svg?style=flat-square
+[license-url]: https://github.com/Hunspell-MS/Hunspell-MS/blob/master/LICENSE.txt
