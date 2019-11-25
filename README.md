@@ -17,7 +17,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Hunspell-MS/Hunspell-MS">
-    <img src="https://buletin01.com/wp-content/uploads/2019/04/dbp-1.jpg"
+    <img src="https://github.com/Hunspell-MS/Hunspell-MS/blob/experimental/assets/dbp.jpg"
          alt="Inspired by Dewan Bahasa dan Pustaka Malaysia"
          title="Inspired by Dewan Bahasa dan Pustaka Malaysia"
          height="200" />
