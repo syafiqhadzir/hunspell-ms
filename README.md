@@ -77,18 +77,18 @@ Distributed and covered under the GNU Free Documentation License. See [http://ww
 
 Syafiq Hadzir - [@syafiqhadzir_](https://twitter.com/syafiqhadzir_) - inquiry@syafiqhadzir.dev
 
-Project Link: [https://github.com/Hunspell-MS/Hunspell-MS](https://github.com/Hunspell-MS/Hunspell-MS)
+Project Link: [https://github.com/SyafiqHadzir/Hunspell-MS](https://github.com/Hunspell-MS/Hunspell-MS)
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Hunspell-MS/Hunspell-MS.svg?style=flat-square
-[contributors-url]: https://github.com/Hunspell-MS/Hunspell-MS/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Hunspell-MS/Hunspell-MS.svg?style=flat-square
-[forks-url]: https://github.com/Hunspell-MS/Hunspell-MS/network/members
-[stars-shield]: https://img.shields.io/github/stars/Hunspell-MS/Hunspell-MS.svg?style=flat-square
-[stars-url]: https://github.com/Hunspell-MS/Hunspell-MS/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Hunspell-MS/Hunspell-MS.svg?style=flat-square
-[issues-url]: https://github.com/Hunspell-MS/Hunspell-MS/issues
+[contributors-shield]: https://img.shields.io/github/contributors/SyafiqHadzir/Hunspell-MS.svg?style=flat-square
+[contributors-url]: https://github.com/SyafiqHadzir/Hunspell-MS/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/SyafiqHadzir/Hunspell-MS.svg?style=flat-square
+[forks-url]: https://github.com/SyafiqHadzir/Hunspell-MS/network/members
+[stars-shield]: https://img.shields.io/github/stars/SyafiqHadzir/Hunspell-MS.svg?style=flat-square
+[stars-url]: https://github.com/SyafiqHadzir/Hunspell-MS/stargazers
+[issues-shield]: https://img.shields.io/github/issues/SyafiqHadzir/Hunspell-MS.svg?style=flat-square
+[issues-url]: https://github.com/SyafiqHadzir/Hunspell-MS/issues
 [license-url]: http://www.gnu.org/copyleft/fdl.html
