@@ -10,6 +10,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+[![License][license-shield]][license-url]
 
 
 
@@ -68,7 +69,7 @@ Currently containing 30840 words compared to the old wordlist, 24550 words.
 <!-- LICENSE -->
 ## License
 
-Distributed and covered under the GNU Free Documentation License. See [http://www.gnu.org/copyleft/fdl.html][license-url] for more information.
+Distributed and covered under the GNU Free Documentation License. See https://www.gnu.org/copyleft/fdl.html for more information.
 
 
 
@@ -91,4 +92,5 @@ Project Link: [https://github.com/SyafiqHadzir/Hunspell-MS](https://github.com/H
 [stars-url]: https://github.com/SyafiqHadzir/Hunspell-MS/stargazers
 [issues-shield]: https://img.shields.io/github/issues/SyafiqHadzir/Hunspell-MS.svg?style=flat-square
 [issues-url]: https://github.com/SyafiqHadzir/Hunspell-MS/issues
-[license-url]: http://www.gnu.org/copyleft/fdl.html
+[license-shield]: https://img.shields.io/github/license/SyafiqHadzir/Hunspell-MS.svg?style=flat-square
+[license-url]: https://github.com/SyafiqHadzir/Hunspell-MS/blob/master/LICENSE.txt
