@@ -92,5 +92,5 @@ Project Link: [https://github.com/SyafiqHadzir/Hunspell-MS](https://github.com/H
 [stars-url]: https://github.com/SyafiqHadzir/Hunspell-MS/stargazers
 [issues-shield]: https://img.shields.io/github/issues/SyafiqHadzir/Hunspell-MS.svg?style=flat-square
 [issues-url]: https://github.com/SyafiqHadzir/Hunspell-MS/issues
-[license-shield]: https://img.shields.io/github/license/SyafiqHadzir/Hunspell-MS.svg?style=flat-square
+[license-shield]: https://img.shields.io/badge/License-GPL%20v3-lightgray.svg?style=flat-square
 [license-url]: https://github.com/SyafiqHadzir/Hunspell-MS/blob/experimental/LICENSE
