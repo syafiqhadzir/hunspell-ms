@@ -93,4 +93,4 @@ Project Link: [https://github.com/SyafiqHadzir/Hunspell-MS](https://github.com/H
 [issues-shield]: https://img.shields.io/github/issues/SyafiqHadzir/Hunspell-MS.svg?style=flat-square
 [issues-url]: https://github.com/SyafiqHadzir/Hunspell-MS/issues
 [license-shield]: https://img.shields.io/github/license/SyafiqHadzir/Hunspell-MS.svg?style=flat-square
-[license-url]: https://github.com/SyafiqHadzir/Hunspell-MS/blob/master/LICENSE.txt
+[license-url]: https://github.com/SyafiqHadzir/Hunspell-MS/blob/master/LICENSE
