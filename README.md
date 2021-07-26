@@ -63,6 +63,7 @@ Currently containing 30840 words compared to the old wordlist, 24550 words.
 * Kamus Dewan Bahasa Edisi Keempat.
 * Tatabahasa Dewan Edisi Ketiga.
 * Gaya Dewan Edisi Ketiga.
+* Kamus Dewan Perdana.
 
 
 
