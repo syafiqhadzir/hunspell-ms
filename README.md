@@ -49,11 +49,12 @@ Currently containing 30840 words compared to the old wordlist, 24550 words.
 <!-- CHANGELOG (Highlights) -->
 ## CHANGELOG (Highlights)
 
+* Database: Initial commit (15 September 2021)
 * API: 300 additions for Wordlists (4 October 2019)
 * API: 72 additions for Wordlists (3 October 2019)
 * API: 78 additions for Wordlists (2 October 2019)
 * API: 12 additions for Wordlists and 54 additions for Manuscripts (4  September 2019)
-* Wordlist: 12 additions and 0 deletions (22 April 2019)
+
 
 
 
