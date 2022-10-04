@@ -9,7 +9,6 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![License][license-shield]][license-url]
 
 
@@ -92,7 +91,5 @@ Project Link: [https://github.com/SyafiqHadzir/Hunspell-MS](https://github.com/H
 [forks-url]: https://github.com/SyafiqHadzir/Hunspell-MS/network/members
 [stars-shield]: https://img.shields.io/github/stars/SyafiqHadzir/Hunspell-MS.svg?style=flat-square
 [stars-url]: https://github.com/SyafiqHadzir/Hunspell-MS/stargazers
-[issues-shield]: https://img.shields.io/github/issues/SyafiqHadzir/Hunspell-MS.svg?style=flat-square
-[issues-url]: https://github.com/SyafiqHadzir/Hunspell-MS/issues
 [license-shield]: https://img.shields.io/badge/License-GPL%20v3-lightgray.svg?style=flat-square
 [license-url]: https://github.com/SyafiqHadzir/Hunspell-MS/blob/experimental/LICENSE
