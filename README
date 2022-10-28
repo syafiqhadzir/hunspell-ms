@@ -43,7 +43,9 @@ This is the bleeding edge branch of Hunspell-MS repository.
 
 Currently containing 30840 words compared to the old wordlist, 24550 words.
 
+Contains dictionaries related code and data.
 
+See https://wiki.documentfoundation.org/Development/Dictionaries for more information.
 
 <!-- CHANGELOG (Highlights) -->
 ## CHANGELOG (Highlights)
