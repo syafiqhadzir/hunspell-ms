@@ -1,0 +1,49 @@
+{
+  "name": "hunspell-ms",
+  "version": "2.4.0",
+  "description": "LibreOffice Malay dictionary extension. Released under GPLv3 & LGPLv3. Covered by FDLv1.3.",
+  "files": [
+    "ms_MY.aff",
+    "ms_MY.dic",
+    "description.xml",
+    "dictionaries.xml"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SyafiqHadzir/Hunspell-MS.git"
+  },
+  "keywords": [
+    "spellcheck",
+    "dictionary",
+    "libreoffice",
+    "spell-check",
+    "dictionary-extensions",
+    "spell-checker",
+    "libreoffice-extension",
+    "hunspell",
+    "spellchecker",
+    "malaysia",
+    "dictionary-extension",
+    "kamus",
+    "hunspell-extension",
+    "bahasa-melayu",
+    "malay",
+    "bahasa-malaysia",
+    "malay-dictionary",
+    "hunspell-ms"
+  ],
+  "author": "Syafiq Hadzir <syafiqhadzir@live.com.my> (https://syafiqhadzir.dev)",
+  "contributors": [
+    "Syafiq Hadzir <syafiqhadzir@live.com.my> (https://syafiqhadzir.dev)",
+    "Benitius Brevoort <benitius.brevoort@kapusin.org>",
+    "MIMOS Open Source R&D <osslocalize@mimos.my> (https://opensource.mimos.my)",
+    "Shahril Saad <osslocalize@mimos.my> (https://opensource.mimos.my)",
+    "Ismas Suraya <osslocalize@mimos.my> (https://opensource.mimos.my)",
+    "Rudhuwan Abu Bakar <osslocalize@mimos.my> (https://opensource.mimos.my)",
+    "Syed Ahmad Shazali <osslocalize@mimos.my> (https://opensource.mimos.my)",
+    "Profesor Emeritus Dr. Abdullah Hassan Ph.D (https://www.facebook.com/profabdullah/)",
+    "Ainon Muhammad (https://ainonmohd.my/)"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/SyafiqHadzir/Hunspell-MS"
+}
